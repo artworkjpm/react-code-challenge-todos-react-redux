@@ -1,0 +1,29 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.important {
+  font-weight: bold;
+  color: red;
+}
+
+.important-button {
+  color: white;
+  font-weight: bold;
+  background: red;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.done-button {
+  color: white;
+  font-weight: bold;
+  background: #00c500;
+}
+
+.add-button {
+  padding: 0.2rem;
+}
